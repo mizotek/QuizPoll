@@ -1,0 +1,5 @@
+{
+  "name": "QuizPoll AI",
+  "description": "A real-time AI-powered quiz and poll generator. Hosts can create scheduled or live sessions, and guests can participate via link.",
+  "requestFramePermissions": []
+}
